@@ -10,8 +10,3 @@ Try the PowerShell Notebook in `.\NotebookExamples\powershell\fromJupyter.ipynb`
 - NameIT
 - PSStringScanner
 - Pester
-
-
-Built before, may not be available.
-
-https://hub.gke.mybinder.org/user/dfinke-jupyterpowershellnb-9dapiyht/lab
